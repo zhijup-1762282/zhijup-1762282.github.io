@@ -1,0 +1,84 @@
+body{
+	background-image: url('bg1.jpg');
+}
+
+h2{
+	color: #FFBC00; 
+	font-size: 40px;
+	font-family: "Passion One";
+	margin-bottom: 0px;
+}
+
+legend{
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border: solid 8px white;
+	border-style: double;
+	border-radius: 25px;
+	text-align: left; 
+	text-align: justify;
+	color: white; 
+}
+
+label{
+	color: white; 
+}
+
+input[type=text] {
+ 
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 3px solid #555;
+  border-radius: 4px;
+  background-color: lightblue;
+  
+}
+
+input[type=password] {
+ 
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 3px solid #555;
+  border-radius: 4px;
+  background-color: lightblue;
+  
+}
+input[type=radio] {
+ 
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 3px solid #555;
+  border-radius: 4px;
+  background-color: lightblue;
+  
+}
+
+input[type=radio] {
+ 
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 3px solid #555;
+  border-radius: 4px;
+  background-color: lightblue;
+  
+}
+
+textarea {
+ 
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 3px solid #555;
+  border-radius: 4px;
+  background-color: lightblue;
+  
+}
+
+label{
+	color: white; 
+}
